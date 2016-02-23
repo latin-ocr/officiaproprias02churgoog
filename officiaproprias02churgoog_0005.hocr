@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./officiaproprias02churgoog/officiaproprias02churgoog_0005.png"; bbox 0 0 2646 3976; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 35 570 806 3963">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 35 570 806 3963">
+     <span class='ocr_line' id='line_1_1' title="bbox 35 570 608 1125; baseline 0 -554"><span class='ocrx_word' id='word_1_1' title='bbox 35 570 608 1125; x_wconf 95' lang='lat' dir='ltr'><strong>    </strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 35 1125 806 3963; baseline 0 -1975"><span class='ocrx_word' id='word_1_2' title='bbox 35 1125 806 3963; x_wconf 95' lang='lat' dir='ltr'><strong>     </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 703 575 1939 584">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 703 575 1939 584">
+     <span class='ocr_line' id='line_1_3' title="bbox 703 575 1939 584; baseline 0.004 -5"><span class='ocrx_word' id='word_1_3' title='bbox 703 575 1939 584; x_wconf 63' lang='lat' dir='ltr'><strong>v-—————————————.--.-—.--„.—--———-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 530 944 1698 1065">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 530 944 1698 1065">
+     <span class='ocr_line' id='line_1_4' title="bbox 530 944 1698 1065; baseline -0.003 -22"><span class='ocrx_word' id='word_1_4' title='bbox 530 945 984 1043; x_wconf 88' lang='lat' dir='ltr'>OFFICIA</span> <span class='ocrx_word' id='word_1_5' title='bbox 1045 944 1566 1065; x_wconf 85' lang='lat' dir='ltr'>PROPRIA</span> <span class='ocrx_word' id='word_1_6' title='bbox 1694 1007 1698 1009; x_wconf 95' lang='lat'>-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 670 1322 1581 1431">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 670 1322 1581 1431">
+     <span class='ocr_line' id='line_1_5' title="bbox 670 1322 1581 1431; baseline 0 -28"><span class='ocrx_word' id='word_1_7' title='bbox 670 1322 1410 1405; x_wconf 59' lang='lat' dir='ltr'><strong>&#39;SANCTORUM</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1574 1424 1581 1431; x_wconf 81' lang='lat'><strong>.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 173 1672 1909 1838">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 173 1586 1909 1854">
+     <span class='ocr_line' id='line_1_6' title="bbox 173 1672 1909 1838; baseline 0.009 0"><span class='ocrx_word' id='word_1_9' title='bbox 173 1672 999 1838; x_wconf 81' lang='lat' dir='ltr'><strong>ARCHIDIOECESIS</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1043 1672 1909 1834; x_wconf 80' lang='lat' dir='ltr'><strong>GUATIMALENSIS·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 808 1984 1953 3615">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 808 1984 1953 3615">
+     <span class='ocr_line' id='line_1_7' title="bbox 808 1984 1953 3615; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 808 1984 1953 3615; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
